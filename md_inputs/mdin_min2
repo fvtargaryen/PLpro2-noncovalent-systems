@@ -1,0 +1,34 @@
+Mnimization HIDROG
+&cntrl
+ imin=1, ntx=1, 
+ ntpr=1000, ntwr=5000, ibelly=1,
+ maxcyc=5000, ncyc=2000, 
+&end
+Residues moving during minimization
+FIND
+* H * *
+* HA * *
+* HB * *
+* HC * *
+* HD * *
+* HG * *
+* HH * *
+* HE * *
+* H1 * *
+* H2 * *
+* H3 * *
+* HA * *
+* H4 * *
+* H5 * *
+* H6 * *
+* H7 * *
+* H8 * *
+* H9 * *
+* HO * *
+* HS * *
+* HP * *
+* HZ * *
+SEARCH
+RES 1 318
+END
+END

@@ -1,0 +1,6 @@
+Mnimization ALL
+&cntrl
+ imin=1, ntx=1, 
+ ntpr=1000, ntwr=5000, ibelly=0,
+ maxcyc=10000, ncyc=5000, 
+&end

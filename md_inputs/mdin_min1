@@ -1,0 +1,10 @@
+Minimization WAT and Cl-
+&cntrl
+ imin=1, ntx=1, 
+ ntpr=1000, ntwr=5000, ibelly=1,
+ maxcyc=8000, ncyc=4000, drms=0.001
+&end
+Residues moving during minimization
+RES 319 17113
+END
+END
