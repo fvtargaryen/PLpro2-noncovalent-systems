@@ -7,9 +7,10 @@ We evaluated a diverse set of inhibitors—including GRL0617 analogs, XR-series 
 If you use these data or tools, please cite our manuscript:
 
 *Ribeiro, F. V. S. et al. Mechanistic Insights into the Non-Covalent Inhibition of SARS-CoV-2 PLpro: A Multiscale Computational Study, Submitted to Journal of Chemical Information and Modeling, 2025.*
-Contact
 
-# For questions or collaboration inquiries, please contact:
+# Contact
+
+For questions or collaboration inquiries, please contact:
 
 Prof. Dr. José Rogério de Araújo Silva
 Federal University of Pará (UFPA), Brazil
